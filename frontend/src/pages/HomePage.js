@@ -8,7 +8,7 @@ export class HomePage extends Component {
         <div className="jumbotron">
           <h1>Vítejte na HobbyHubu</h1>
           <p className="lead">Jedná se o platformu pro hráče bez spoluhráčů. Odpadl Vám parťák na zítřejší tenis ? Vašemu spolužákovi možná taky !</p>
-          <p><Link className="btn btn-lg btn-success" to="/products" role="button">All Products</Link></p>
+          <p><Link className="btn btn-lg btn-success" to="/products" role="button">Najít spoluhráče</Link></p>
         </div>
         <div className="row marketing">
           <div className="col-lg-6">
