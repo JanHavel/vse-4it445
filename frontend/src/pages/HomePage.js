@@ -6,8 +6,8 @@ export class HomePage extends Component {
     return (
       <div>
         <div className="jumbotron">
-          <h1>Welcome to e-shopu</h1>
-          <p className="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+          <h1>Vítejte na HobbyHubu</h1>
+          <p className="lead">Jedná se o platformu pro hráče bez spoluhráčů. Odpadl Vám parťák na zítřejší tenis ? Vašemu spolužákovi možná taky !</p>
           <p><Link className="btn btn-lg btn-success" to="/products" role="button">All Products</Link></p>
         </div>
         <div className="row marketing">
